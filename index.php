@@ -8,4 +8,4 @@ $router->get('/', function(){
     return 'Hello World';
 })
 
-$app->run()
+$app->run();
